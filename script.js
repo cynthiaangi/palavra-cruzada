@@ -15,7 +15,7 @@ function bt_Resposta00() {
             CHAR_9.innerHTML = `E`;
             contagem++;
             pontos.innerHTML = contagem;
-            pergunta.innerHTML = `É a parte de um SO, que realiza as instruções de um programa de computador, para executar a aritmética básica, lógica, e a entrada e saída de dados.`
+            pergunta.innerHTML = `É o principal componente de hardware de um computador, funcionando como um coração.`
         } else {
             alert("Resposta incorreta! \n Tente novamente.");
         }
@@ -26,7 +26,7 @@ function bt_Resposta00() {
             CHAR_12.innerHTML = `U`
             contagem++;
             pontos.innerHTML = contagem;
-            pergunta.innerHTML = `Sigla em inglês de uma característica de um computador que dá possibilidades à leitura e escrita da memória do sistema independente de uma CPU.`;
+            pergunta.innerHTML = `Permite que componentes de hardware acessem diretamente a memória, reduzindo a utilização da CPU.`;
         } else {
             alert("Resposta incorreta! \n Tente novamente.");
         }
@@ -37,7 +37,7 @@ function bt_Resposta00() {
                 CHAR_15.innerHTML = `A`
                 contagem++;
                 pontos.innerHTML = contagem;
-                pergunta.innerHTML = `Uma série de processadores da marca Intel que foi lançado pela primeira vez ao mundo em 9 de Setembro de 2009 nos Estados Unidos da América.`;
+                pergunta.innerHTML = `São processadores da Intel que foram lançados no dia 09 de setembro de 2009 e possui uma arquitetura híbrida.`;
             } else {
                 alert("Resposta incorreta! \n Tente novamente.");
             }
@@ -48,7 +48,7 @@ function bt_Resposta00() {
             CHAR_17.innerHTML = `5`;
             contagem++;
             pontos.innerHTML = contagem;
-            pergunta.innerHTML = `Uma série de processadores da marca Intel que foi lançado pela primeira vez ao mundo em 17 de Novembro de 2008 nos Estados Unidos da América.`;
+            pergunta.innerHTML = `São processadores da Intel que foram lançados no dia 17 de novembro de 2008 e possui uma arquitetura híbrida.`;
         } else {
             alert("Resposta incorreta! \n Tente novamente.");
         }
@@ -58,7 +58,7 @@ function bt_Resposta00() {
             CHAR_19.innerHTML = `7`;
             contagem++;
             pontos.innerHTML = contagem;
-            pergunta.innerHTML = `Nomenclatura para Seleção de Chip na língua inglesa. Geralmente o mesmo é utilizado com a lógica dos três estados.`;
+            pergunta.innerHTML = `É um comando que informa a um periférico que ele deve receber ou enviar dados.`;
         } else {
             alert("Resposta incorreta! \n Tente novamente.");
         }
@@ -69,7 +69,7 @@ function bt_Resposta00() {
             CHAR_21.innerHTML = `S`;
             contagem++;
             pontos.innerHTML = contagem;
-            pergunta.innerHTML = `É um microprocessador que possui (4) quatro núcleos ou quatro 'cérebros'. Há quatro núcleos dentro de apenas único chip.`;
+            pergunta.innerHTML = `É um microprocessador que possui (4) quatro núcleos ou quatro 'cérebros'.`;
         } else {
             alert("Resposta incorreta! \n Tente novamente.");
         }
@@ -84,7 +84,7 @@ function bt_Resposta00() {
             CHAR_29.innerHTML = `E`;
             contagem++;
             pontos.innerHTML = contagem;
-            pergunta.innerHTML = `Corresponde a uma memória local rápida do microprocessador e também armazena informações binárias (instruções, endereços e também dados).`;
+            pergunta.innerHTML = `São responsáveis por armazenar dados temporários, estão no topo da hierarquia de memórias e ficam dentro da CPU.`;
         } else {
             alert("Resposta incorreta! \n Tente novamente.");
         }
@@ -103,7 +103,7 @@ function bt_Resposta00() {
             CHAR_39.innerHTML = `E`;
             contagem++;
             pontos.innerHTML = contagem;
-            pergunta.innerHTML = `Tipo de memória NÃO VOLÁTIL, ou seja, consegue manter informações mesmo quando não há alimentação. Se difere da ROM pois pode ser atualizada.`;
+            pergunta.innerHTML = `São memórias não voláteis, que diferentemente das memórias ROM elas podem ser atualizadas. Elas são utilizdas em eletrônicos portáteis e dispositivos de armazenamento removíveis.`;
         } else {
             alert("Resposta incorreta! \n Tente novamente.");
         }
@@ -117,7 +117,7 @@ function bt_Resposta00() {
                 CHAR_44.innerHTML = `H`;
                 contagem++;
                 pontos.innerHTML = contagem;
-                pergunta.innerHTML = `É um tipo de memória NÃO VOLATIL e muito conhecida, porém, diferente da Memória Flash, esse tipo de memória não pode ser regravada.`;
+                pergunta.innerHTML = `É uma memória somente de leitura, em que suas informações são gravadas pelo fabricante uma única vez e não podem ser alteradas ou apagadas e são classificadas como memória não volátil. Ela está localizada na placa-mãe.`;
             } else {
                 alert("Resposta incorreta! \n Tente novamente.");
             }
@@ -128,7 +128,7 @@ function bt_Resposta00() {
             CHAR_47.innerHTML = `M`;
             contagem++;
             pontos.innerHTML = contagem;
-            pergunta.innerHTML = `É um tipo de memória VOLATIL, que guarda os arquivos do computados de forma temporária, ou seja, a mesma pode ser regravada várias e várias vezes.`;
+            pergunta.innerHTML = `É uma memória temporária, em que os dados só são armazenados enquanto o computador está ligado.`;
         } else {
             alert("Resposta incorreta! \n Tente novamente.");
         }
@@ -139,7 +139,7 @@ function bt_Resposta00() {
             CHAR_49.innerHTML = `M`;
             contagem++;
             pontos.innerHTML = contagem;
-            pergunta.innerHTML = `É um tipo de memória que pode ser regravada. As informações são apagadas pela exposição à luz ultravioleta por aproximadamente 15 minutos.`;
+            pergunta.innerHTML = `É um tipo de memória não volátil e que permite regravação de dados. As informações são apagadas pela exposição à luz ultravioleta. Essas memórias ficam localizadas em microcontroladores.`;
         } else {
             alert("Resposta incorreta! \n Tente novamente.");
         }
@@ -153,7 +153,7 @@ function bt_Resposta00() {
             CHAR_54.innerHTML = `M`;
             contagem++;
             pontos.innerHTML = contagem;
-            pergunta.innerHTML = `Termo utilizado dentro da computação para a transferência de dados entre computadores.`;
+            pergunta.innerHTML = `É usado para transmitir dados entre o processador e os componentes do sistema.`;
         } else {
             alert("Resposta incorreta! \n Tente novamente.");
         }
@@ -168,7 +168,7 @@ function bt_Resposta00() {
             CHAR_61.innerHTML = `U`;
             contagem++;
             pontos.innerHTML = contagem;
-            pergunta.innerHTML = `Um elemento da CPU que transmite a localização (endereço) de um dado ou de uma informação armazenada pelo computador.`;
+            pergunta.innerHTML = `É responsável por transmitir os endereços de memória que o processador que acessar ou escrever dados`;
         } else {
             alert("Resposta incorreta! \n Tente novamente.");
         }
@@ -185,7 +185,7 @@ function bt_Resposta00() {
             CHAR_69.innerHTML = `S`;
             contagem++;
             pontos.innerHTML = contagem;
-            pergunta.innerHTML = `É um tipo de memória que tem sua utilidade a armazenação de dados e informações em grande quantidade.`;
+            pergunta.innerHTML = `É um tipo de memória que tem como função armazenar grandes quantidades de dados a longo prazo. Ela fica armazenada no HD.`;
         } else {
             alert("Resposta incorreta! \n Tente novamente.");
         }
@@ -203,7 +203,7 @@ function bt_Resposta00() {
             CHAR_78.innerHTML = `A`;
             contagem++;
             pontos.innerHTML = contagem;
-            pergunta.innerHTML = `Sigla para o circuito digital que realiza as operações lógicas e aritméticas. Peça fundamental para uma CPU.`;
+            pergunta.innerHTML = `É um circuito combinatório responsável pela execução de funções aritmétcas e funções lógicas, em um sistema digital.`;
         } else {
             alert("Resposta incorreta! \n Tente novamente.");
         }
